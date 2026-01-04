@@ -1,4 +1,4 @@
-# Bill Management Project 🧡
+# Billing Management Project 🧡
 
 from tkinter import *         
 root=Tk()
